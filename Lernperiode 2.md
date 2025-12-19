@@ -29,3 +29,4 @@ Mein Github wissen vergrössert (habe vorher immer falsch abgespeichert) und jet
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+Mich auf die Module konzentriert und dabei Datenbanken besser kennengelernt ausserdem hatte ich meine erste projektarbeit gehabt das hat spass gemacht und ich denke ich habe im Modul eine gute Note
