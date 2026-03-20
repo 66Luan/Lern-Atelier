@@ -18,12 +18,21 @@ Langchar kurs angefangen und einige Basic befehle gelernt
 
 
 
-## Planung 28.11.2025
+## Planung 20.03.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] LangChain Kurs kennelnlernen
 - [ ] Ki Agent tools kennenlernen
 - [ ] Das Fewshot Template verstehen
+## Tagesreflexion 20.03.2026
+Ich habe angefangen mit Langchain zu arbeiten leider habe ich bemerkt das ich dafür zuerst Python etwas dazulernen muss und mich jetzt besser auf die Grundsprachen ( Python,Javascript lernen ) und mich danach zu langchain begebe 
+
+## Planung 27.03.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Javascript kennelernen
+- [ ] Das erste Kapitel meines Kusrses abschliessen
+- [ ] Aufgaben dazu durcharbeiten
 
 
 ## Lernperiode Reflexion
