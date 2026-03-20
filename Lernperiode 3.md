@@ -19,7 +19,7 @@ Langchar kurs angefangen und einige Basic befehle gelernt
 
 
 ## Planung 20.03.2026
-3 bis 5 klar messbare Arbeitspakete.
+3 bis 5 klar messbare Arbeitspakete
 
 - [ ] LangChain Kurs kennelnlernen
 - [ ] Ki Agent tools kennenlernen
