@@ -37,3 +37,4 @@ Ich habe angefangen mit Langchain zu arbeiten leider habe ich bemerkt das ich da
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+Etwas über ki (langchain) und javascript gelernt dazu habe ich noch gelernt wie das lernatelier richtig funktioniert
