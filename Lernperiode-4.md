@@ -36,8 +36,16 @@ Ich habe wieder nur eine lektion geschafft da es es komplikationen gab und javas
 - [ ] Planung abschliessen
 ## Tagesreflexion 22.05.2026
 Ich bin gut vorangekommen und habe die Lektion auch verstanden leider habe ich anstelle von 1.5 elktionen nur eine geschafft da ich noch bei einer 45 minuten session mitgemacht habe trotzdem habe ich das gefühl das ich gut etwas gelernt habe und mich gut konzentrieren konnte
-## Planung 27.05.2026
+## Planung 29.05.2026
 3 bis 5 klar messbare Arbeitspakete
 - [ ] Arbeitspakete durchlesen
 - [ ] 1,5 Lektionen Python Kurs
 - [ ] Planung abschliessen
+## Tagesreflexion 29.05.2026
+Ich habe wieder nur eine Lektion geschafft ich finde es war aber trotzdem sehr viel da die Kurse immer komplizierter werden und ich denke das eine Lektion schon knapp war zu schaffen ich finde ich habe konzentriert und fokussiert gearbeitet und habe viel gelernt 
+## Planung 05.06.2026
+3 bis 5 klar messbare Arbeitspakete
+- [ ] Arbeitspakete durchlesen
+- [ ] 1,0 Lektionen Python Kurs
+- [ ] Planung abschliessen
+
