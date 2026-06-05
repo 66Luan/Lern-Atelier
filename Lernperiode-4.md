@@ -48,4 +48,11 @@ Ich habe wieder nur eine Lektion geschafft ich finde es war aber trotzdem sehr v
 - [ ] Arbeitspakete durchlesen
 - [ ] 1,0 Lektionen Python Kurs
 - [ ] Planung abschliessen
+## Tagesreflexion 05.06.2026
+Ich habe eine Lektion geschafft diese war vom Schwirigkeitsgrad wie die letzt und ich denke ich konnte mich gut konzentrieren und bin gut voran gekommen
+## Planung 12.06.2026
+3 bis 5 klar messbare Arbeitspakete
+- [ ]  Planung machen/ durchlesen
+- [ ] 1,0 Lektionen Python Kurs
+- [ ] Lernperiode richtig führen das sie bei Dashboard funktioniert
 
