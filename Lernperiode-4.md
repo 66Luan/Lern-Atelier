@@ -56,7 +56,7 @@ Ich habe eine Lektion geschafft diese war vom Schwirigkeitsgrad wie die letzt un
 - [ ] 1,0 Lektionen Python Kurs
 - [ ] Planung abschliessen
 ## Tagesreflexion 12.06.2026
-Ich habe eine lektion geschafft und konte sogar an meinem Projekt in Roblox weiterarbeiten konzentration hat am ende jedoch nachgelassen
+Ich habe nur eine halbe lektin gemacht und konte dafür aber an meinem Projekt in Roblox weiterarbeiten konzentration hat am ende jedoch etwas nachgelassen 
 ## Planung 19.06.2026
 3 bis 5 klar messbare Arbeitspakete
 - [ ] Ein Stadion in mein Roblox game einbauen
