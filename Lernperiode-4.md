@@ -52,7 +52,13 @@ Ich habe wieder nur eine Lektion geschafft ich finde es war aber trotzdem sehr v
 Ich habe eine Lektion geschafft diese war vom Schwirigkeitsgrad wie die letzt und ich denke ich konnte mich gut konzentrieren und bin gut voran gekommen
 ## Planung 12.06.2026
 3 bis 5 klar messbare Arbeitspakete
-- [ ]  Planung machen/ durchlesen
+- [ ] Arbeitspakete durchlesen
 - [ ] 1,0 Lektionen Python Kurs
-- [ ] Lernperiode richtig führen das sie bei Dashboard funktioniert
-
+- [ ] Planung abschliessen
+## Tagesreflexion 12.06.2026
+Ich habe eine lektion geschafft und konte sogar an meinem Projekt in Roblox weiterarbeiten konzentration hat am ende jedoch nachgelassen
+## Planung 19.06.2026
+3 bis 5 klar messbare Arbeitspakete
+- [ ] Ein Stadion in mein Roblox game einbauen
+- [ ] Dictonray in Python lernen
+- [ ] Planung abschliessen
