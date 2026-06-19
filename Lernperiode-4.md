@@ -62,3 +62,10 @@ Ich habe nur eine halbe lektin gemacht und konte dafür aber an meinem Projekt i
 - [ ] Ein Stadion in mein Roblox game einbauen
 - [ ] Dictonray in Python lernen
 - [ ] Planung abschliessen
+## Tagesreflexion 19.06.2026
+Ich könnte mich gut konzetrieren und habe meine arbeitspackete genau in der Zeit geschafft die ich vorgesehen habe
+## Planung 26.06.2026
+3 bis 5 klar messbare Arbeitspakete
+- [ ] in meinem Robloxgame spins einfügen
+- [ ] vertieftes über funktionen in Python lernen
+- [ ] Planung abschliessen
