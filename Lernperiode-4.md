@@ -79,3 +79,8 @@ Ich könnte mich gut konzetrieren und habe meine arbeitspackete genau in der Zei
 - [ ] in meinem Robloxgame spins einfügen
 - [ ] vertieftes über funktionen in Python lernen
 - [ ] Planung abschliessen
+## Tagesreflexion 26.06.2026
+Ich bin mit meinern arbeitspaketen nicht ganz fertig geworden aber ich denken ich habe trotzdem viel gelernt und konnte mich einigermassen gut konzentieren
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (100-150 Wörter))
+Zuerst einen Javaskript kurs angefangen und mit dem Modul zusammen viel über Webdevelopment gelernt ich habe neben bei an meinem Robloxprojekt gearbeitet und habe guten fortschritt gemacht im zweiten teil habe ich noch einen Python kurs angefangen und viel gelernt denn hab ich jedoch noch nicht ganz fertig in der lernperidoe konnte ich mich bis jetzt am besten Konzentrieren und meine projekte haben mir gut gefallen und viele neue sachen gelernt es gefiel mir vorallem der Python kurs weil das bis jetzt die Sprache ist die ich am meisten mag und mir gefällt 
