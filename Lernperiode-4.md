@@ -29,9 +29,19 @@ Ich habe gut gearbeitet habe aber statt 2 lektionnen statt einen geschafft der r
 - [ ] Planung abschliessen
 ## Tagesreflexion 24.04.2026
 Ich habe wieder nur eine lektion geschafft da es es komplikationen gab und javascript konnte ich nicht fortführen da ich dafür html brauche und ich es erst in einem modul durchführen musste 
+
+## Planung 08.05.2026
+3 bis 5 klar messbare Arbeitspakete
+
+- [ ] Mit Javascript fertig werden
+- [ ] 2 Lektionen Javascript Kurs
+- [ ] Planung abschliessen
+## Tagesreflexion 08.05.2026
+Ich habe wieder nur eine lektion geschafft da es es komplikationen gab und javascript konnte ich nicht fortführen da ich dafür html brauche und ich es erst in einem modul durchführen musste 
+
 ## Planung 22.05.2026
 3 bis 5 klar messbare Arbeitspakete
-    [ ] Javascript lektion
+- [ ] Javascript lektion
 - [ ] 1,5 Lektionen Javascript Kurs
 - [ ] Planung abschliessen
 ## Tagesreflexion 22.05.2026
