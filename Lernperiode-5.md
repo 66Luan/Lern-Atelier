@@ -27,15 +27,15 @@ Auf Python level intermediat in Codedex werden und mehr Praktisch erfahrung in P
 - [ ] Lektion über test in python fertig machen 
 - [ ] Mit dem richtigen ausfüllen der neuen Lernperiode starte 
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich gut arbeiten können jedoch war ging es etwas länger das Wissen wieder in denn Kopf zu bekommen und die Lektion war auch echt schwer desshalb hab ich sie nur zu 60% fertig geschaft jeoch habeich trotzdem viel gelernt und haben mein wissen einigermassen wieder zürück (50-100 Wörter))
 
 
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] die angefangenen Python lektion fertig machen 
+- [ ] die neue Python lektion bis zu 10%-50% schaffen 
+- [ ] Die Feinplanung für denn neuen Tag absolwierne und Tagesreflexion schreiben
 
 (Heute habe ich... (50-100 Wörter))
 
