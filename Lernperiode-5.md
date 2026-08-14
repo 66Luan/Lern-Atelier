@@ -23,9 +23,9 @@ Auf Python level intermediat in Codedex werden und mehr Praktisch erfahrung in P
 ### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Wieder Die Basics von Python in denn Kopf bekommen
-- [ ] Lektion über test in python fertig machen 
-- [ ] Mit dem richtigen ausfüllen der neuen Lernperiode starte 
+- [x] Wieder Die Basics von Python in denn Kopf bekommen
+- [-] Lektion über test in python fertig machen 
+- [x] Mit dem richtigen ausfüllen der neuen Lernperiode starte 
 
 (Heute habe ich gut arbeiten können jedoch war ging es etwas länger das Wissen wieder in denn Kopf zu bekommen und die Lektion war auch echt schwer desshalb hab ich sie nur zu 60% fertig geschaft jeoch habeich trotzdem viel gelernt und haben mein wissen einigermassen wieder zürück (50-100 Wörter))
 
