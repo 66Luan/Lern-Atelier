@@ -1,0 +1,88 @@
+# Lern-Periode 5
+
+- Name: Luan Aakti
+- Zeitraum: 14.08.2026 bis 25.09.2026
+
+## Grob-Planung
+
+### Noten
+> Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Meine Noten waren im letzten Schuljahr gut keine üngenügenden
+
+### Veränderungen
+> Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+Mehr Praxis als Theorie
+### Projekte / neue Technologien
+> Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+Python Kurs beenden und danach ein Python Projekt machen 
+### Generelle Ziele
+> Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+Auf Python level intermediat in Codedex werden und mehr Praktisch erfahrung in Python bekommen 
+## Tagesplanungen
+
+### Planung 14.08.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Wieder Die Basics von Python in denn Kopf bekommen
+- [ ] Lektion über test in python fertig machen 
+- [ ] Mit dem richtigen ausfüllen der neuen Lernperiode starte 
+
+(Heute habe ich... (50-100 Wörter))
+
+
+### Planung 21.08.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 28.08.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 04.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 11.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 18.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+### Planung 25.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (100-150 Wörter))
