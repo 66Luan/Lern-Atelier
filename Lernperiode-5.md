@@ -38,13 +38,13 @@ Auf Python level intermediat in Codedex werden und mehr Praktisch erfahrung in P
 - [ ] Die Feinplanung für denn neuen Tag absolwierne und Tagesreflexion schreiben
 
 (Heute habe ich... (50-100 Wörter))
-
+Weiter gemacht an meine Kurs und die Lektion es hat eigentlich gut geklapt aber dann wollte ich noch etwas anderes machen und habe noch mit Hack the Box angefangen und mich in denn cissco Kurs eingeschrieben
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] 50% der letzten lektion schaffen
+- [ ] cissco Kurs denn Modul einstieg fertig machen
+- [X] Feinplanung lesen und für die nächste woche die Pakete planen
 
 (Heute habe ich... (50-100 Wörter))
 
