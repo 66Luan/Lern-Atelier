@@ -47,13 +47,14 @@ Weiter gemacht an meine Kurs und die Lektion es hat eigentlich gut geklapt aber 
 - [X] Feinplanung lesen und für die nächste woche die Pakete planen
 
 (Heute habe ich... (50-100 Wörter))
+Eine Aufgabe in meinem codedex Python programm lösen können das hat nicht zu lange gedauert danach habe ich noch mit Vincent ein skript entwickelt um google snake durchzuspielen (mit skript) insgesamt habe ich das gefühl ich habe gut arbeiten können und neue sachen gelernt in Python 
 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Im intermediat Python Kur die Testen lektion erfolgreich abschliessen und die das unitest paket      behereschen 
+- [ ] Mir die 3 möglichkeiten für ein Python projekt anschauen und 1 gutes auswählen und meine wahl begründen in 2 Sätzen 
+- [ ] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind 
 
 (Heute habe ich... (50-100 Wörter))
 
