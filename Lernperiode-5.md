@@ -57,13 +57,13 @@ Eine Aufgabe in meinem codedex Python programm lösen können das hat nicht zu l
 - [ ] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind 
 
 (Heute habe ich... (50-100 Wörter))
-
+Denn Pyhton itermediat kurs erfolgreich abgeschlossen und in zusammenarbeit mit vincent ein Pyhton projekt angefangen um ein Wordle zu erstellen ich habe mich für dieses Projekt entschieden um meine erlernten skills zu verwenden um danach die basics sicher zu beherschen und danach mit den Lektionen fortzufahren ich habe gut aberbeiten können ohne gross Probleme
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Worlde skript abschliessen das es funktioniert wie ein eine normale Wordle spiel und keine Fehler mehr hat
+- [ ] In die GenAi lektion in codedex einlesen und die einleitung abschliessen
+- [ ] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind
 
 (Heute habe ich... (50-100 Wörter))
 
