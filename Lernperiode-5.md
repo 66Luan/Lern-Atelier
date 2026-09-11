@@ -61,18 +61,19 @@ Denn Pyhton itermediat kurs erfolgreich abgeschlossen und in zusammenarbeit mit 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Worlde skript abschliessen das es funktioniert wie ein eine normale Wordle spiel und keine Fehler mehr hat
-- [ ] In die GenAi lektion in codedex einlesen und die einleitung abschliessen
-- [ ] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind
+- [X] Worlde skript abschliessen das es funktioniert wie ein eine normale Wordle spiel und keine Fehler mehr hat
+- [x] In die GenAi lektion in codedex einlesen und die einleitung abschliessen
+- [x] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind
 
 (Heute habe ich... (50-100 Wörter))
+Das Projekt mit Vincent abgeschlossen und getestet es hat gut funktioniert, wir haben es schnell fertig bekommen, danach habe ich die GenAi einsteigerlektion abgeschlossen was auch seine Zeit gebraucht hat aber ich habe das auch geschafft und die Session über OOP angehört was mir noch mehr geholfen hat Polymorphie etc. zu verstehen ich habe es vorher schon einigermassen verstanden aber jetzt ist es noch sicherer. Ich habe das gefühl die Arbeit hat gut, ruhig und konzentriert funktioniert und ich habe das gefühl etwas gearbeitet und erreicht zu haben 
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Die How Ai thinks inhalte des coddexkurs abschliessen und zu verstehn wie ai tokenized und was patterns sind 
+- [ ] Die Lektion Prompt engineering in Codedex anfangen und mindestens 3 regeln zum Promtengineering kennen 
+- [ ] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind
 
 (Heute habe ich... (50-100 Wörter))
 
