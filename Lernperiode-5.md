@@ -71,18 +71,18 @@ Das Projekt mit Vincent abgeschlossen und getestet es hat gut funktioniert, wir 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Die How Ai thinks inhalte des coddexkurs abschliessen und zu verstehn wie ai tokenized und was patterns sind 
-- [ ] Die Lektion Prompt engineering in Codedex anfangen und mindestens 3 regeln zum Promtengineering kennen 
-- [ ] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind
+- [x] Die How Ai thinks inhalte des coddexkurs abschliessen und zu verstehn wie ai tokenized und was patterns sind 
+- [x] Die Lektion Prompt engineering in Codedex anfangen und mindestens 3 regeln zum Promtengineering kennen 
+- [x] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind
 
 (Heute habe ich... (50-100 Wörter))
-
+Heute habe ich Kapitel 1 im GenAi Kurs abgeschlossen und das Tokenizen funktioniert und denn grudaufbau von einem LLM ich könnte heute viel arbeiten und wurde fast garnicht Abgelenkt ich hattee ein gutes Arbeitsgefühl und konnte sogar Kapitel 2 fertig machen (es war ein eher einfacheres Kürzeres Kapitel) und habe alle meine Ziele erreicht
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Lektion 3 im GenAi Kurs auf Codedex anfangen und verstehen was Embeddings sind 
+- [ ] Ein Market in mein Roblox spiel einbauen bei dem man seine Attribute upgraden kann
+- [ ] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind
 
 (Heute habe ich... (50-100 Wörter))
 
