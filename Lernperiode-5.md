@@ -80,11 +80,12 @@ Heute habe ich Kapitel 1 im GenAi Kurs abgeschlossen und das Tokenizen funktioni
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Lektion 3 im GenAi Kurs auf Codedex anfangen und verstehen was Embeddings sind 
-- [ ] Ein Market in mein Roblox spiel einbauen bei dem man seine Attribute upgraden kann
-- [ ] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind
+- [x] Lektion 3 im GenAi Kurs auf Codedex anfangen und verstehen was Embeddings sind 
+- [x] Ein Market in mein Roblox spiel einbauen bei dem man seine Attribute upgraden kann
+- [x] 3 Gute nachvollziehbare Arbeitspackete verfassen und überprüfen ob sie sie wirklich gut machbar sind
 
 (Heute habe ich... (50-100 Wörter))
-
+Die dritte Lektion angefangen und 40% des Kurses erreicht. Ich konnte heute viele neues Lernen und habe mein Ziel zu wissen was Embeddings sind erreicht. Der Shop in meinem Game ist jetzt auch vorhanden und man kann da jetzt für Ingame Coins Raumschiffe kaufen. Ich konnte konzentriert und ohne Ablenkungen arbeiten und habe viels erreicher.
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+Viele neue Sachen über Python und die Objektorientierte Programmierung lerne und konnte die Arbeitspakete und Ziele in der Qualität viel besser gestalten ich habe das Gefühl das ich dies Lernperiode einen echten Mehrwert für mein allgemeins Wissen in der Informatik ist und ich zwar noch einige Probleme wie z.B die Rechtschreibung habe mich jedoch um einiges verbessert habe zur letzten Lernperiode und och meine Arbeitsweisse Stück für Stück verbessern konnte und ich sagen kann so wie ich es jetzt mache will ich es weiter machen und finde ich habe in dieser Lernperiode viel erreicht/gelernt
