@@ -74,9 +74,9 @@ Beispiele:
 - [ ] noch nicht erledigte Aufgabe
 - [x] erledigte Aufgabe
 -->
-- [ ] Mich für den Kurs HTML beginner in Cisco anmelden 
-- [ ] Die Basics die ich bereits kenne wieder in den Kopf mit einem kleine AI generierten Quiz 
-- [ ] Die erste Lektion in Cisco für HTML abschliesen
+- [X] Mich für den Kurs HTML beginner in Cisco anmelden 
+- [X] Die Basics die ich bereits kenne wieder in den Kopf mit einem kleine AI generierten Quiz 
+- [X] Das erste Modul in Cisco für HTML abschliesen
 
 
 #### Tagesreflexion
@@ -87,7 +87,9 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Das Abschliessen des Quizes und des Basics in denn Kopf bekommen lief erstaundlich gut und schnell.
+Das erste Modul des Kurses konnte ich ohne Probleme und schnell durcharbeiten ich habe sogar Zeit gehabt das zweite anzufangen.
+Ich konnte allgemein Konzentriert arbeiten und hatte nur kurze Phasen in denen ich abgelenkt wurde es war schon eine Besserung im Vergleich zur letzten Lernperiode.
 
 
 <!--
@@ -103,9 +105,9 @@ Beispiele:
 - [ ] noch nicht erledigte Aufgabe
 - [x] erledigte Aufgabe
 -->
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Modul Test 2 in Cisco des HTML Kurses bestehen mit mindestens 90% richtig
+- [ ] Mich in Modul 3 des Kurses beginnen und mindestens schon 2 Lektionen absorvieren
+- [ ] Gut Messbare Ziele verfassen und eine Reflexion möglichst ohne Rechtschreibe Fehler verfassen
 
 
 #### Tagesreflexion
