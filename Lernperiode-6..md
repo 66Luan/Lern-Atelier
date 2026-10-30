@@ -107,7 +107,7 @@ Beispiele:
 -->
 - [X] Modul Test 2 in Cisco des HTML Kurses bestehen mit mindestens 90% richtig
 - [X] Mich in Modul 3 des Kurses beginnen und mindestens schon 2 Lektionen absorvieren
-- [ ] Gut Messbare Ziele verfassen und eine Reflexion möglichst ohne Rechtschreibe Fehler verfassen
+- [X] Gut Messbare Ziele verfassen und eine Reflexion möglichst ohne Rechtschreibe Fehler verfassen
 
 
 #### Tagesreflexion
