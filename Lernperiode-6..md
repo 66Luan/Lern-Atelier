@@ -105,8 +105,8 @@ Beispiele:
 - [ ] noch nicht erledigte Aufgabe
 - [x] erledigte Aufgabe
 -->
-- [ ] Modul Test 2 in Cisco des HTML Kurses bestehen mit mindestens 90% richtig
-- [ ] Mich in Modul 3 des Kurses beginnen und mindestens schon 2 Lektionen absorvieren
+- [X] Modul Test 2 in Cisco des HTML Kurses bestehen mit mindestens 90% richtig
+- [X] Mich in Modul 3 des Kurses beginnen und mindestens schon 2 Lektionen absorvieren
 - [ ] Gut Messbare Ziele verfassen und eine Reflexion möglichst ohne Rechtschreibe Fehler verfassen
 
 
@@ -118,7 +118,8 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute konnte ich gut am Kurs weiterarbeiten und neues Lernen / mein Wissen wieder auffrischen.
+Ich konnte mich am Anfang gut Konzentrieren gegen 11:00 wurde die Konzentration etwas weniger, aber ich konnte trotzdem viel Erreichen. Im Vergeich zur letzten Lektion konnte ich mein Ziel der guten Konzentration sicherlich verbessern und denke ich habe heute viel neues Lernen. 
 
 ### Planung 06.11.2026
 <!--
@@ -130,10 +131,10 @@ Beispiele:
 - [ ] noch nicht erledigte Aufgabe
 - [x] erledigte Aufgabe
 -->
-- [ ] 
-- [ ] 
-- [ ] 
-
+- [ ] Lektion 3 Abschliesen und denn abschliessenden Test bestehen 
+- [ ] Lektion 4 Abschliessesn und denn abschliessesden Test bestehen
+- [ ] Lektion 5 Abschliessesn und denn abschliessesden Test bestehen
+- [ ] Mich in dem schreiben von messbaren Zielen verbessern und bessere Konzentration haben als letzte woche 
 
 #### Tagesreflexion
 <!--
