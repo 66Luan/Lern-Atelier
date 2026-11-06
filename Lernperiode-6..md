@@ -131,10 +131,10 @@ Beispiele:
 - [ ] noch nicht erledigte Aufgabe
 - [x] erledigte Aufgabe
 -->
-- [ ] Lektion 3 Abschliesen und denn abschliessenden Test bestehen 
-- [ ] Lektion 4 Abschliessesn und denn abschliessesden Test bestehen
-- [ ] Lektion 5 Abschliessesn und denn abschliessesden Test bestehen
-- [ ] Mich in dem schreiben von messbaren Zielen verbessern und bessere Konzentration haben als letzte woche 
+- [X] Lektion 3 Abschliesen und denn abschliessenden Test bestehen 
+- [X] Lektion 4 Abschliessesn und denn abschliessesden Test bestehen
+- [-] Lektion 5 Abschliessesn und denn abschliessesden Test bestehen
+- [X] Mich in dem schreiben von messbaren Zielen verbessern und bessere Konzentration haben als letzte woche 
 
 #### Tagesreflexion
 <!--
@@ -142,7 +142,7 @@ Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
 und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
+--> Ich konnte heute vorallem in Modul 3 viel lernen, jedoch hat die Zeit nicht für Modul 5 gereicht, dass war aber nicht umbedingt wegen zu viel unkonzentriert (ist mir auch 1-2 mal passiert), sondern vorallem auch weil Modul 3 viele wichtige, mir komplett neue ,Systeme enthält desshalb habe ich mir das Modul lieber etwas genauer angeschaut.
 
 ...Ihr Text...
 ### Planung 13.11.2026
@@ -155,9 +155,10 @@ Beispiele:
 - [ ] noch nicht erledigte Aufgabe
 - [x] erledigte Aufgabe
 -->
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Lektion 5 Abschliessesn und denn abschliessesden Test bestehen
+- [ ] Lektion 6 Abschliessesn und denn abschliessesden Test bestehen
+- [ ] Mich in dem schreiben von messbaren Zielen verbessern und bessere Konzentration haben als letzte woche 
+ 
 
 
 #### Tagesreflexion
