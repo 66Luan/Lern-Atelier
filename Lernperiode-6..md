@@ -145,7 +145,7 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 --> Ich konnte heute vorallem in Modul 3 viel lernen, jedoch hat die Zeit nicht für Modul 5 gereicht, dass war aber nicht umbedingt wegen zu viel unkonzentriert (ist mir auch 1-2 mal passiert), sondern vorallem auch weil Modul 3 viele wichtige, mir komplett neue ,Systeme enthält desshalb habe ich mir das Modul lieber etwas genauer angeschaut.
 
 ...Ihr Text...
-### Planung 13.11.2026
+### Planung 20.11.2026
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
 Umfang: ca. 30 - 60 Minuten je Arbeitspaket
@@ -171,30 +171,6 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 
 ...Ihr Text...
 
-### Planung 20.11.2026
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
-
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-- [ ] 
-- [ ] 
-- [ ] 
-
-
-#### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
-
-...Ihr Text...
 
 ### Planung 27.11.2026
 <!--
